@@ -12,6 +12,7 @@ django = "*"
 pytest = "*"
 pep8 = "*"
 djangorestframework = "*"
+coverage = "*"
 
 [requires]
 python_version = "3.7"
