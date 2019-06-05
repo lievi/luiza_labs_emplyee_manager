@@ -13,6 +13,9 @@ pytest = "*"
 pep8 = "*"
 djangorestframework = "*"
 coverage = "*"
+gunicorn = "*"
+dj-database-url = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.7"
