@@ -2,10 +2,10 @@
 
 Luiza Labs Django Coding test.
 ### Demo
-Is possible to test the API on https://powerful-cliffs-81265.herokuapp.com/
+It's possible to test the API on https://powerful-cliffs-81265.herokuapp.com/
 
 ### Instalation
-To run locally, install the dependencies on the <code>Pipfile</code>
+To run locally, install the dependencies from the <code>Pipfile</code>
 
 After that, migrate the database:
 <code>python manage.py migrate</code>
